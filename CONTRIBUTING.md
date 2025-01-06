@@ -90,6 +90,11 @@ Para subir una solución a un ejercicio existente, sigue estos pasos:
 1. **Elige el ejercicio:**
    - Busca el archivo `.md` del ejercicio en la carpeta `/ejercicios` correspondiente a la dificultad.
 
+   1.1 **Crea una rama con tu nombre:**
+   - Antes de realizar cualquier cambio, crea una rama en tu repositorio con el siguiente formato:
+   nombre-de-usuario/solucion
+   - Por ejemplo: juanperez/solucion.
+
 2. **Guarda tu solución:**
    - Dirígete a la carpeta `/soluciones` correspondiente al nivel de dificultad.
    - Crea un archivo con el siguiente formato:
@@ -99,7 +104,7 @@ Para subir una solución a un ejercicio existente, sigue estos pasos:
 3. **Escribe un comentario inicial:**
    - Describe brevemente tu solución y las herramientas o algoritmos usados.
 
-4. **Haz un Pull Request:**
+4. **Haz un Pull Request desde tu rama:**
    - Envía el archivo a la carpeta correspondiente siguiendo las instrucciones de la sección "Envío de Cambios".
 
 ### 3. Proponer Mejoras
