@@ -36,7 +36,7 @@ console.log(encontrarFaltante(array1));
 // Salida esperada: 3
 
 // Entrada 2:
-const array2 = [10, 11, 12, 14, 15];
+const array2 = [15, 12, 11, 14, 10];
 console.log(encontrarFaltante(array2));
 // Salida esperada: 13
 
