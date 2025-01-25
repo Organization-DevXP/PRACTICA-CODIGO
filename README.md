@@ -58,3 +58,13 @@ cd PRACTICA-CODIGO
 Queremos que este proyecto sea colaborativo y en constante crecimiento. Lee el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.
 
 ¡Esperamos que disfrutes resolviendo los ejercicios y compartiendo tus soluciones! 🚀
+
+## Redes Sociales de OrganizationDevXp
+
+Puedes seguirnos o unirte a nuestras comunidades en las siguientes plataformas:
+
+- [LinkedIn](https://www.linkedin.com/company/organization-devxp)
+- [YouTube](https://www.youtube.com/@Organization-DevXP)
+- [WhatsApp](https://chat.whatsapp.com/FfX0fXV4xHzCvFoVFn7ssa)
+- [Discord](https://discord.com/invite/j3hnJjR8Yd)
+- [GitHub](https://github.com/Organization-DevXP)
