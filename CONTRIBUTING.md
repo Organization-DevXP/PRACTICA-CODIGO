@@ -2,8 +2,6 @@
 
 ¡Gracias por tu interés en contribuir a este proyecto! Este repositorio está diseñado para la comunidad de desarrolladores de habla hispana que desean practicar programación y compartir conocimientos. A continuación, encontrarás una guía detallada para participar.
 
----
-
 ## 📚 Formas de Contribuir
 
 Puedes contribuir de las siguientes maneras:
@@ -12,8 +10,6 @@ Puedes contribuir de las siguientes maneras:
 2. **Subiendo tus soluciones a ejercicios existentes.**
 3. **Corrigiendo errores o mejorando la documentación.**
 4. **Proponiendo mejoras o nuevas características.**
-
----
 
 ## 📝 Directrices para Contribuir
 
@@ -81,7 +77,7 @@ console.log(nombreFuncion(entrada2));
 ```
 
 4. **Haz un Pull Request:**
-   - Envía el archivo a la carpeta correspondiente siguiendo las instrucciones de la sección "Envío de Cambios".
+   - Envía el archivo a la carpeta correspondiente siguiendo las instrucciones de la sección [🚀 Envío de Cambios](#envío-de-cambios).
 
 ### 2. Subir Soluciones
 
